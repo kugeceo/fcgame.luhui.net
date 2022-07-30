@@ -1,6 +1,12 @@
 # FCGame - FC模拟器
 **FC游戏在线玩，FC在线模拟器，NES在线模拟器，魂斗罗，超级玛丽，忍者龙剑传。可在手机电脑上在线玩FC游戏的网站，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。**
 
+http://fcgame.luhui.net/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/beedb3cc-539f-444a-9b0a-c6b6ff985e4c/deploy-status)](https://app.netlify.com/sites/fcgames/deploys)
+
+https://fcgames.netlify.app/
+
 ## FC模拟器网页效果图
 使用jsnes代码实现网页在线玩fc功能
 
