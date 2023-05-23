@@ -3,9 +3,11 @@
 
 http://fcgame.luhui.net/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/beedb3cc-539f-444a-9b0a-c6b6ff985e4c/deploy-status)](https://app.netlify.com/sites/fcgames/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/75737119-e7de-4177-bf0c-58c96e29530e/deploy-status)](https://app.netlify.com/sites/fcgame/deploys)
 
-https://fcgames.netlify.app/
+http://fcgame.guanfu.org/
+
+https://fcgame.netlify.app/
 
 ## FC模拟器网页效果图
 使用jsnes代码实现网页在线玩fc功能
