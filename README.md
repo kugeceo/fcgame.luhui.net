@@ -13,10 +13,10 @@ https://fcgame.netlify.app/
 使用jsnes代码实现网页在线玩fc功能
 
 ### 横屏效果
-![横屏预览](./landscape_mode.png)
+![横屏预览](http://fcgame.guanfu.org/landscape_mode.png)
 
 ### 竖屏效果
-![竖屏预览](./portrait_mode.png)
+![竖屏预览](http://fcgame.guanfu.org/portrait_mode.png)
 
 ## 按键说明：
 移动端使用触摸操控，PC端按键映射如下：
